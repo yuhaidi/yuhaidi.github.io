@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-09-07 17:08:28
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-09-07 17:18:19
+* @Last Modified time: 2017-09-07 17:30:12
 */
 h1,h3{
 	color: #723C8B;
@@ -12,6 +12,11 @@ h1,h3{
 h3{
 	color: pink;
 }
-img{
-	margin: 10px auto;
+body{
+
+	background: url("../img/timg.jpg") no-repeat center;
+	background-size: cover;
+}
+div{
+	height: 840px;
 }
